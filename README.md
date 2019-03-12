@@ -7,7 +7,7 @@ When loading up the page on first glance, you should see 4 bars of different col
 <br>
 Start to shrink the window, and the boxes get smaller. But once you git 640px, that's where the magic happens.
 <br>
-Those 4 bars sitting side by side, turn into 2, and they stack on top of eachother!
+Those 4 bars sitting side by side, turn into 2, and they stack on top of eachother, and they change colours!
 
 ### Tools Used
 
